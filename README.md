@@ -1,7 +1,10 @@
 Hello! 🙃
+
 👨‍💻 My name is João Vitor Souza and my nickname is jonhrib!
-🔍 I'm a researcher in the field of Ux
-🏠 I carry out different projects at college
+
+🔍 I'm a researcher in the field of Ux.
+
+🏠 I carry out different projects at college.
 
 <div align="center">
   <a href="https://github.com/ThiaagoMP">
