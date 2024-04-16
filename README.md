@@ -1,6 +1,6 @@
 Hello! 🙃
 
-👨‍💻 My name is João Vitor Souza and my nickname is jonhrib!
+👨‍💻 My name is João Vitor and my nickname is jonhrib!
 
 🔍 I'm a researcher in the field of Ux.
 
